@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MainTestInJar Test Suite" parallel="methods" thread-count="4">
+    <test name="All Tests">
+        <classes>
+            <class name="org.example.JsonPlaceholderAPITest"/>
+            <class name="org.example.GoogleSearchUITest"/>
+        </classes>
+    </test>
+</suite>
